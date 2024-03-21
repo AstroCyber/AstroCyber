@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AstroCyber
+- 👋 Hi, I’m @Vyxm
 - I’m interested in Python, MusicEngineering, DataScience, Aerospace
 - I’m currently learning Everything
 - I’m looking to collaborate on Music
